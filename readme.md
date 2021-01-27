@@ -1,6 +1,12 @@
-# Sneakers Store
+# Movie List React Native
 
 Layout de aplicativo de streaming, desenvolvido usando React Native (Javascript).
+
+<p align="center">
+  <img src="/app_images/showapp.gif" width="200" />
+  <img src="/app_images/ps1.png" width="200" />
+  <img src="/app_images/ps2.png" width="200" />
+</p>
 
 ###### bibliotecas 
 
